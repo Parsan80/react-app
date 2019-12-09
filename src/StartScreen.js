@@ -24,7 +24,7 @@ export default class StartScreen extends Component {
   
   
   onClick_elButton3 = (ev) => {
-    window.open('https://', '_blank');
+    window.open('https://github.com/Parsan80', '_blank');
   
   }
   
